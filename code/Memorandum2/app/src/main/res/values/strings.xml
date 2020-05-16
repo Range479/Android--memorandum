@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">备忘录</string>
+    <string name="edit_title">标题</string>
+    <string name="edit_text">内容</string>
+    <string name="edit_name">编辑笔记</string>
+    <string name="editor_note">添加笔记</string>
+    <string-array name="type_name">
+        <item>学习</item>
+        <item>生活</item>
+        <item>其他</item>
+    </string-array>
+    <string name="all">首页</string>
+    <string name="stu">学习</string>
+    <string name="life">生活</string>
+    <string name="other">其他</string>
+    <string name="share">分享</string>
+    <string name="read_share">分享</string>
+    <string name="read">阅读</string>
+    <string name="dele">删除</string>
+</resources>
